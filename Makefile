@@ -4,7 +4,7 @@ TAG="\n\n\033[0;32m\#\#\# "
 END=" \#\#\# \033[0m\n"
 
 HOST=0.0.0.0
-PORT=8080
+PORT=5000
 PROJECT_NAME=request_response_project
 PYTHONPATH=$(PROJECT_NAME)
 DJANGO_SETTINGS=$(PROJECT_NAME).settings
